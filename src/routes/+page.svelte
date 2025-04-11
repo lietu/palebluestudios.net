@@ -1,7 +1,5 @@
 <script lang="ts">
   import PBSLogo from '$lib/assets/PBS_-_Logo.svg';
-  import StarChildHeader from '$lib/assets/starchild-header.jpg';
-  import ToleoHeader from '$lib/assets/toleo-header.jpg';
 
   const starChildUrl = 'https://store.steampowered.com/app/2953070/Star_Child/?utm_source=homepage&utm_medium=organic';
   const toleoUrl = 'https://store.steampowered.com/app/2312780/Toleo/?utm_source=homepage&utm_medium=organic';
@@ -21,20 +19,28 @@
   progress. Can you survive your dangerous mission? Currently in-progress, wishlist Star Child on <a
   href={starChildUrl}>Steam</a>.
 </p>
-<a href={starChildUrl}><img src={StarChildHeader} alt="Wishlist Star Child on Steam" /></a>
+<p><a href="/presskit/starchild/">Press kit</a></p>
+<a href={starChildUrl}><img src="/starchild/starchild-header.jpg" alt="Wishlist Star Child on Steam" /></a>
 
 <h2>Toleo</h2>
 <p>Toleo is a fast, fluid and fun pixel-art precision platformer. Run, jump, slide, and flap your way through beautiful,
   hand-crafted worlds. Toleo is now available on <a href={toleoUrl}>Steam</a>.</p>
-<a href={toleoUrl}><img src={ToleoHeader} alt="Check out Toleo on Steam" /></a>
+<a href={toleoUrl}><img src="/toleo/toleo-header.jpg" alt="Check out Toleo on Steam" /></a>
 
 <h2>How to find us</h2>
 <p>You can find us on various social media</p>
 <ul>
   <li><a href="https://bsky.app/profile/palebluestudios.bsky.social">Bluesky</a></li>
+  <li><a href="https://x.com/palebluetx">Twitter</a></li>
   <li><a href="https://www.reddit.com/user/PaleBlueStudios/">Reddit</a></li>
   <li><a href="https://twitch.tv/palebluecamel">Twitch (PaleBlueCamel)</a></li>
   <li><a href="https://www.tiktok.com/@pale.blue.studios">TikTok</a></li>
+</ul>
+
+<h2>Other presence</h2>
+<p>You can find more about us also on</p>
+<ul>
+  <li><a href="https://www.indiedb.com/company/pale-blue-studios">IndieDB</a></li>
 </ul>
 
 <style lang="scss">

@@ -41,6 +41,7 @@
 <footer>
   <p>Copyright &copy; Pale Blue Studios, LLC 2025</p>
   <p>For business inquiries contact us at <a href="mailto:palebluetx@gmail.com">palebluetx@gmail.com</a></p>
+  <p>This website does not use cookies. We use privacy-friendly analytics from Plausible, <a href="https://plausible.io/privacy">read their Privacy Policy</a>.</p>
 </footer>
 
 <style lang="scss">
