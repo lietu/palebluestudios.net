@@ -28,13 +28,18 @@
   <meta property="twitter:image" content="https://palebluestudios.net/pbs-social-share-1200x628.png" />
 
   <!-- Meta Tags Generated with https://metatags.io -->
+
+  <!-- Plausible analytics, privacy friendly -->
+  <!-- https://plausible.io/privacy -->
+  <script defer data-domain="palebluestudios.net" src="https://plausible.io/js/script.js"></script>
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 </svelte:head>
 
 <main>
   {@render children()}
 </main>
 <footer>
-  <p>Copyright &copy; Pale Blue Studios Inc. 2025</p>
+  <p>Copyright &copy; Pale Blue Studios, LLC 2025</p>
   <p>For business inquiries contact us at <a href="mailto:palebluetx@gmail.com">palebluetx@gmail.com</a></p>
 </footer>
 
