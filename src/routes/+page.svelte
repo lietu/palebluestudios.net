@@ -30,7 +30,7 @@
 <h2>How to find us</h2>
 <p>You can find us on various social media</p>
 <ul>
-  <li><a href="https://bsky.app/profile/palebluestudios.bsky.social">Bluesky</a></li>
+  <li><a href="https://bsky.app/profile/palebluestudios.net">Bluesky</a></li>
   <li><a href="https://x.com/palebluetx">Twitter</a></li>
   <li><a href="https://www.reddit.com/user/PaleBlueStudios/">Reddit</a></li>
   <li><a href="https://twitch.tv/palebluecamel">Twitch (PaleBlueCamel)</a></li>
