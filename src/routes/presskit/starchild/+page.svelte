@@ -49,7 +49,7 @@
     We're hoping to release in 2025, but are not committed to it yet.
   {/snippet}
   {#snippet pricing()}
-    Our target price is $15.
+    Our target price is $20 USD.
   {/snippet}
   {#snippet platforms()}
     We want to launch on Steam and Itch.io, supporting Windows and Linux, possibly also Mac.
