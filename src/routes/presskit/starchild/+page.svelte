@@ -88,5 +88,6 @@
     <Svg src={StarChildTransparentLogo} />
     <Img src="/starchild/starchild-transparent-logo.png" />
     <Img src="/starchild/starchild-grayscale-logo.png" />
+    <Img src="/starchild/starchild-suit-tileset-x4.png" />
   {/snippet}
 </PressKit>
