@@ -56,7 +56,7 @@
   {/snippet}
   {#snippet contact()}
     <ul>
-      <li>Email: <a href="mailto:palebluetx@gmail.com">palebluetx@gmail.com</a></li>
+      <li>Email: <a href="mailto:contact@paleblustudios.net">contact@paleblustudios.net</a></li>
     </ul>
   {/snippet}
   {#snippet features()}
