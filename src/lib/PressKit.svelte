@@ -14,6 +14,7 @@
     platforms,
     contact,
     links,
+    videos,
     screenshots,
     images
   } = $props();
@@ -78,6 +79,27 @@
 
     <hr />
 
+    <h3>Videos</h3>
+    <div class="videos">
+      {#each Object.keys(videos) as name}
+        <div>
+          <video id={`player-${name}`} playsinline controls>
+            {#each Object.keys(videos[name]) as type }
+            <source src={videos[name][type]} type={type} />
+            {/each}
+          </video>
+        </div>
+
+        {#each Object.keys(videos[name]) as type }
+          <div>
+            <a href={videos[name][type]} target="_blank">Open in new tab ({type.split("/")[1]})</a>
+          </div>
+        {/each}
+      {/each}
+    </div>
+
+    <hr />
+
     <h3>Links</h3>
     <p>Click to open in a new tab.</p>
     <ul>
@@ -120,5 +142,11 @@
     grid-template-columns: 1fr 1fr;
     gap: 0.5rem;
     align-items: center;
+  }
+
+  .videos {
+    video {
+      max-width: 100%;
+    }
   }
 </style>

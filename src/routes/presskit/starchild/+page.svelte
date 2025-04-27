@@ -11,9 +11,16 @@
     'Gameplay Preview - Vertical (April 2025)': 'https://youtube.com/shorts/gLaZf0wY_cQ',
     'Banner .psd': '/starchild/starchild-banner.psd'
   };
+
+  const videos = {
+    "World interaction": {
+      "video/mp4": "/starchild/starchild-interactions.mp4",
+      "video/webp": "/starchild/starchild-interactions.webp",
+    }
+  }
 </script>
 
-<PressKit links={links}>
+<PressKit {links} {videos}>
   {#snippet name()}Star Child{/snippet}
   {#snippet trailer()}
     <iframe src="https://www.youtube.com/embed/oGBFaiw5itM?si=AMThfVoSsnwJRLsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
