@@ -19,7 +19,7 @@
   progress. Can you survive your dangerous mission? Currently in-progress, wishlist Star Child on <a
   href={starChildUrl}>Steam</a>.
 </p>
-<p><a href="/presskit/starchild/">Press kit</a></p>
+<p>Check out the <a href="/presskit/starchild/">Press kit</a>.</p>
 <a href={starChildUrl}><img src="/starchild/starchild-header.jpg" alt="Wishlist Star Child on Steam" /></a>
 
 <h2>Toleo</h2>
@@ -41,6 +41,11 @@
 <p>You can find more about us also on</p>
 <ul>
   <li><a href="https://www.indiedb.com/company/pale-blue-studios">IndieDB</a></li>
+</ul>
+
+<h2>Press kits</h2>
+<ul>
+  <li><a href="/presskit/starchild/">Star Child</a></li>
 </ul>
 
 <style lang="scss">

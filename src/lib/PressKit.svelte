@@ -1,7 +1,7 @@
 <script lang="ts">
   import PBSLogo from '$lib/assets/PBS_-_Logo.svg';
-  import Svg from '$lib/assets/Svg.svelte';
-  import Img from '$lib/assets/Img.svelte';
+  import Svg from '$lib/Svg.svelte';
+  import Img from '$lib/Img.svelte';
 
   let {
     trailer,
@@ -93,8 +93,8 @@
 
     <h3>Image assets</h3>
     <div class="images">
-      <Svg src={PBSLogo} />
-      <Img src="/pbs-social-share-1200x628.png" />
+      <Svg src={PBSLogo} alt="Pale Blue Studios logo SVG" />
+      <Img src="/pbs-social-share-1200x628.png" alt="Pale Blue Studios logo PNG" />
     </div>
   </article>
 </section>

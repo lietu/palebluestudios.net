@@ -1,5 +1,5 @@
 <script lang="ts">
-  let { src } = $props();
+  let { src, alt } = $props();
   let container: HTMLElement
 
   function open(evt) {
@@ -16,7 +16,7 @@
 </script>
 
 <div class="svg" bind:this={container}>
-  <a href="#" onclick={open} title="Open SVG in new tab">{@render src({})}</a>
+  <a href="#" onclick={open} title={alt}>{@render src({})}</a>
 </div>
 
 <style lang="scss">

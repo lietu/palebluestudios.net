@@ -1,7 +1,7 @@
 <script lang="ts">
-  import PressKit from '$lib/assets/PressKit.svelte';
-  import Img from '$lib/assets/Img.svelte';
-  import Svg from '$lib/assets/Svg.svelte';
+  import PressKit from '$lib/PressKit.svelte';
+  import Img from '$lib/Img.svelte';
+  import Svg from '$lib/Svg.svelte';
   import StarChildTransparentLogo from '$lib/assets/starchild/starchild-transparent-logo.svg';
 
   const links = {
@@ -74,20 +74,20 @@
     </ul>
   {/snippet}
   {#snippet screenshots()}
-    <Img src="/starchild/starchild-screenshot-1.png" />
-    <Img src="/starchild/starchild-screenshot-2.png" />
-    <Img src="/starchild/starchild-screenshot-3.png" />
-    <Img src="/starchild/starchild-screenshot-4.png" />
-    <Img src="/starchild/starchild-screenshot-5.png" />
-    <Img src="/starchild/starchild-screenshot-6.png" />
-    <Img src="/starchild/starchild-gif-1.gif" />
-    <Img src="/starchild/starchild-gif-2.gif" />
+    <Img src="/starchild/starchild-screenshot-1.png" alt="Screenshot of Star Child main character rolling" />
+    <Img src="/starchild/starchild-screenshot-2.png" alt="Screenshot of Star Child main character shooting while crouched" />
+    <Img src="/starchild/starchild-screenshot-3.png" alt="Screenshot of Star Child main character using rocket boots" />
+    <Img src="/starchild/starchild-screenshot-4.png" alt="Screenshot of Star Child main character destroying breakable walls" />
+    <Img src="/starchild/starchild-screenshot-5.png" alt="Screenshot of Star Child main character killing an enemy with grenades" />
+    <Img src="/starchild/starchild-screenshot-6.png" alt="Screenshot of Star Child main character opening a pathway with grenades" />
+    <Img src="/starchild/starchild-gif-1.gif" alt="GIF of Star Child exploration gameplay" />
+    <Img src="/starchild/starchild-gif-2.gif" alt="GIF of Star Child combat gameplay" />
   {/snippet}
   {#snippet images()}
-    <Img src="/starchild/starchild-banner.png" />
-    <Svg src={StarChildTransparentLogo} />
-    <Img src="/starchild/starchild-transparent-logo.png" />
-    <Img src="/starchild/starchild-grayscale-logo.png" />
-    <Img src="/starchild/starchild-suit-tileset-x4.png" />
+    <Img src="/starchild/starchild-banner.png" alt="Promo banner art for Star Child" />
+    <Svg src={StarChildTransparentLogo} alt="Transparent vector logo for Star Child" />
+    <Img src="/starchild/starchild-transparent-logo.png" alt="Transparent PNG logo for Star Child" />
+    <Img src="/starchild/starchild-grayscale-logo.png" alt="Grayscale PNG logo for Star Child" />
+    <Img src="/starchild/starchild-suit-tileset-x4.png" alt="Main character tileset for Star Child at x4 size" />
   {/snippet}
 </PressKit>

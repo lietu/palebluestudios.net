@@ -1,9 +1,9 @@
 <script lang="ts">
-  let { src } = $props();
+  let { src, alt } = $props();
 </script>
 
 <div class="img">
-  <a href={src} target="_blank"><img src={src} /></a>
+  <a href={src} target="_blank" aria-label={alt}><img src={src} alt={alt} /></a>
 </div>
 
 <style lang="scss">

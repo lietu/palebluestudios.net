@@ -1,5 +1,4 @@
 <script lang="ts">
-
   import '@fontsource/jersey-15';
 
   // Import global styles
@@ -40,7 +39,7 @@
 </main>
 <footer>
   <p>Copyright &copy; Pale Blue Studios, LLC 2025</p>
-  <p>For business inquiries contact us at <a href="mailto:palebluetx@gmail.com">palebluetx@gmail.com</a></p>
+  <p>For business inquiries contact us at <a href="mailto:contact@palebluestudios.net">contact@palebluestudios.net</a></p>
   <p>This website does not use cookies. We use privacy-friendly analytics from Plausible, <a href="https://plausible.io/privacy">read their Privacy Policy</a>.</p>
 </footer>
 
