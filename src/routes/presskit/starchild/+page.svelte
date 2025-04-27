@@ -19,7 +19,7 @@
     <iframe src="https://www.youtube.com/embed/oGBFaiw5itM?si=AMThfVoSsnwJRLsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   {/snippet}
   {#snippet description()}
-    Star Child is a sci-fi pixel-art metroidvania that tries to honor the classics of the genre, while refining on some aspects.
+    Star Child is a sci-fi pixel-art metroidvania that tries to honor the classics of the genre, while inserting our own creative aspects.
   {/snippet}
   {#snippet history()}
     <p>
