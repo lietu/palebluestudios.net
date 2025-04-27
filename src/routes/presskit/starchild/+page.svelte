@@ -44,6 +44,15 @@
       mystery. The bosses are challenging imaginative spectacles. The music pushes you forward into the challenges,
       encouraging you while warning you.
     </p>
+    <ul>
+      <li>Lead developer: Jay Ingle</li>
+      <li>Lead designer: Jay Ingle</li>
+      <li>Lead artist: Jay Ingle</li>
+      <li>Music and sfx: TantrumTech</li>
+      <li>Promo art: Hound3</li>
+      <li>Logo: Alina Kel</li>
+      <li>Other stuff: Janne Enberg</li>
+    </ul>
   {/snippet}
   {#snippet release_date()}
     We're hoping to release in 2025, but are not committed to it yet.
