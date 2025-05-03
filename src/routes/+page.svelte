@@ -20,6 +20,12 @@
   href={starChildUrl}>Steam</a>.
 </p>
 <p>Check out the <a href="/presskit/starchild/">Press kit</a>.</p>
+
+<p>Dev Logs</p>
+<ul>
+  <li><a href="https://steamcommunity.com/ogg/2953070/announcements/detail/500571481680380400?snr=2___" target="_blank">Star Child Dev Log #1</a></li>
+</ul>
+
 <a href={starChildUrl}><img src="/starchild/starchild-header.jpg" alt="Wishlist Star Child on Steam" /></a>
 
 <h2>Toleo</h2>

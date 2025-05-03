@@ -111,7 +111,10 @@
 
   <article>
     <h2>About Pale Blue Studios, LLC</h2>
-    <p>A small indie developer and publisher of games, based in the United States of America.</p>
+    <p>I founded Pale Blue Studios because I have always wanted to create video games. It has been my dream ever since I was a small child. In 2022, I realized that it was no longer inviable for a solo developer to create a quality indie title, due to the amount of engines, education, and resources available.</p>
+    <p>I began my first game in 2022, while still working my normal job, but after six months, I had saved up enough money to quit and focus full time on my dream project. Six more months of full-time game development, and <a href="https://store.steampowered.com/app/2312780/Toleo/" target="_blank">Toleo</a> was released on July 20th, 2023. I had finally accomplished a dream that I had since childhood. The all-important step of completing a game was done. Success was small, but I was satisfied with the game that I had created.</p>
+    <p>After Toleo's release, I was fortunate enough to partner with <a href="https://cocreators.ee" target="_blank">Cocreators</a> to help me produce the next game. This allows me to continue my game development dreams full-time, and provides much needed marketing and business knowledge. The future looks bright, and all of us on the Pale Blue Studios team are determined to release fun and creative video games well into the future.</p>
+    <p>Written by Jay Ingle</p>
 
     <h3>Image assets</h3>
     <div class="images">
