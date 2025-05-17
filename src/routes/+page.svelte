@@ -26,6 +26,7 @@
   <li><a href="https://store.steampowered.com/news/app/2953070/view/500571481680380399" target="_blank">Star Child Dev Log #1</a></li>
   <li><a href="https://store.steampowered.com/news/app/2953070/view/500572113230365186" target="_blank">Star Child Dev Log #2</a></li>
   <li><a href="https://store.steampowered.com/news/app/2953070/view/500572747038983969" target="_blank">Star Child Dev Log #3</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/655947663575876604" target="_blank">Star Child Dev Log #4</a></li>
 </ul>
 
 <a href={starChildUrl}><img src="/starchild/starchild-header.jpg" alt="Wishlist Star Child on Steam" /></a>
