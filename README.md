@@ -1,10 +1,7 @@
-# palebluestudios.net
 
-Simple website for [Pale Blue Studios](https://palebluestudios.net)
+# Goodbye
 
-Built with Svelte and Bun, using [Pico CSS](https://picocss.com/).
+Repo no longer maintained. You can thank Pirkka Tapio Frosti, Sonja Frosti, and Jouni Korhonen for this. Read more at [https://lietu.net/](https://lietu.net/).
 
+See original README in the original-main branch.
 
-## License
-
-BSD 3-clause
